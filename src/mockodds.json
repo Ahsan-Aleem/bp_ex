@@ -1,0 +1,576 @@
+{
+    "soccer_match_1": {
+      "teams": ["Manchester United", "Chelsea"],
+      "markets": [
+        {
+          "title": "Match Odds",
+          "maxBet": 5000000,
+          "options": [
+            {
+              "team": "Manchester United",
+              "back": [2.10],
+              "lay": [2.15]
+            },
+            {
+              "team": "Draw",
+              "back": [3.40],
+              "lay": [3.45]
+            },
+            {
+              "team": "Chelsea",
+              "back": [3.60],
+              "lay": [3.65]
+            }
+          ]
+        },
+        {
+          "title": "Over/Under Goals",
+          "maxBet": 5000000,
+          "options": [
+            {
+              "event": "Over 2.5",
+              "back": [1.85],
+              "lay": [1.90]
+            },
+            {
+              "event": "Under 2.5",
+              "back": [2.10],
+              "lay": [2.15]
+            }
+          ]
+        }
+      ]
+    },
+    "soccer_match_2": {
+      "teams": ["Liverpool", "Arsenal"],
+      "markets": [
+        {
+          "title": "Match Odds",
+          "maxBet": 5000000,
+          "options": [
+            {
+              "team": "Liverpool",
+              "back": [1.85],
+              "lay": [1.90]
+            },
+            {
+              "team": "Draw",
+              "back": [3.60],
+              "lay": [3.65]
+            },
+            {
+              "team": "Arsenal",
+              "back": [4.00],
+              "lay": [4.10]
+            }
+          ]
+        },
+        {
+          "title": "Over/Under Goals",
+          "maxBet": 5000000,
+          "options": [
+            {
+              "event": "Over 3.5",
+              "back": [2.50],
+              "lay": [2.55]
+            },
+            {
+              "event": "Under 3.5",
+              "back": [1.55],
+              "lay": [1.60]
+            }
+          ]
+        }
+      ]
+    },
+    "soccer_match_3": {
+      "teams": ["Barcelona", "Real Madrid"],
+      "markets": [
+        {
+          "title": "Match Odds",
+          "maxBet": 5000000,
+          "options": [
+            {
+              "team": "Barcelona",
+              "back": [2.50],
+              "lay": [2.55]
+            },
+            {
+              "team": "Draw",
+              "back": [3.20],
+              "lay": [3.25]
+            },
+            {
+              "team": "Real Madrid",
+              "back": [2.80],
+              "lay": [2.85]
+            }
+          ]
+        },
+        {
+          "title": "Over/Under Goals",
+          "maxBet": 5000000,
+          "options": [
+            {
+              "event": "Over 2.5",
+              "back": [1.75],
+              "lay": [1.80]
+            },
+            {
+              "event": "Under 2.5",
+              "back": [2.25],
+              "lay": [2.30]
+            }
+          ]
+        }
+      ]
+    },
+    "cricket_match_1": {
+      "teams": ["Australia", "England"],
+      "markets": [
+        {
+          "title": "Match Odds",
+          "maxBet": 5000000,
+          "options": [
+            {
+              "team": "Australia",
+              "back": [1.80],
+              "lay": [1.85]
+            },
+            {
+              "team": "England",
+              "back": [2.10],
+              "lay": [2.15]
+            }
+          ]
+        },
+        {
+          "title": "Total Runs Last Over",
+          "maxBet": 5000000,
+          "options": [
+            {
+              "event": "0 Runs",
+              "back": [8.85],
+              "lay": [9.00]
+            },
+            {
+              "event": "1 Run",
+              "back": [8.85],
+              "lay": [9.00]
+            },
+            {
+              "event": "2 Runs",
+              "back": [8.85],
+              "lay": [9.00]
+            }
+          ]
+        }
+      ]
+    },
+    "cricket_match_2": {
+      "teams": ["India", "Pakistan"],
+      "markets": [
+        {
+          "title": "Match Odds",
+          "maxBet": 5000000,
+          "options": [
+            {
+              "team": "India",
+              "back": [1.70],
+              "lay": [1.75]
+            },
+            {
+              "team": "Pakistan",
+              "back": [2.25],
+              "lay": [2.30]
+            }
+          ]
+        },
+        {
+          "title": "Total Runs Last Over",
+          "maxBet": 5000000,
+          "options": [
+            {
+              "event": "0 Runs",
+              "back": [9.50],
+              "lay": [9.55]
+            },
+            {
+              "event": "1 Run",
+              "back": [9.50],
+              "lay": [9.55]
+            },
+            {
+              "event": "2 Runs",
+              "back": [9.50],
+              "lay": [9.55]
+            }
+          ]
+        }
+      ]
+    },
+    "cricket_match_3": {
+      "teams": ["India", "Pakistan"],
+      "markets": [
+        {
+          "title": "Match Odds",
+          "maxBet": 5000000,
+          "options": [
+            {
+              "team": "India",
+              "back": [1.70],
+              "lay": [1.75]
+            },
+            {
+              "team": "Pakistan",
+              "back": [2.25],
+              "lay": [2.30]
+            }
+          ]
+        },
+        {
+          "title": "Total Runs Last Over",
+          "maxBet": 5000000,
+          "options": [
+            {
+              "event": "0 Runs",
+              "back": [9.50],
+              "lay": [9.55]
+            },
+            {
+              "event": "1 Run",
+              "back": [9.50],
+              "lay": [9.55]
+            },
+            {
+              "event": "2 Runs",
+              "back": [9.50],
+              "lay": [9.55]
+            }
+          ]
+        }
+      ]
+    },
+    "cricket_match_4": {
+      "teams": ["South Africa", "New Zealand"],
+      "markets": [
+        {
+          "title": "Match Odds",
+          "maxBet": 5000000,
+          "options": [
+            {
+              "team": "South Africa",
+              "back": [1.85],
+              "lay": [1.90]
+            },
+            {
+              "team": "New Zealand",
+              "back": [2.10],
+              "lay": [2.15]
+            }
+          ]
+        },
+        {
+          "title": "Total Runs Last Over",
+          "maxBet": 5000000,
+          "options": [
+            {
+              "event": "0 Runs",
+              "back": [10.00],
+              "lay": [10.10]
+            },
+            {
+              "event": "1 Run",
+              "back": [10.00],
+              "lay": [10.10]
+            },
+            {
+              "event": "2 Runs",
+              "back": [10.00],
+              "lay": [10.10]
+            }
+          ]
+        }
+      ]
+    },
+    "tennis_match_1": {
+      "teams": ["Novak Djokovic", "Rafael Nadal"],
+      "markets": [
+        {
+          "title": "Match Odds",
+          "maxBet": 5000000,
+          "options": [
+            {
+              "team": "Novak Djokovic",
+              "back": [1.80],
+              "lay": [1.85]
+            },
+            {
+              "team": "Rafael Nadal",
+              "back": [2.10],
+              "lay": [2.15]
+            }
+          ]
+        },
+        {
+          "title": "Total Games",
+          "maxBet": 5000000,
+          "options": [
+            {
+              "event": "Over 20.5",
+              "back": [1.95],
+              "lay": [2.00]
+            },
+            {
+              "event": "Under 20.5",
+              "back": [1.85],
+              "lay": [1.90]
+            }
+          ]
+        }
+      ]
+    },
+    "tennis_match_2": {
+      "teams": ["Roger Federer", "Andy Murray"],
+      "markets": [
+        {
+          "title": "Match Odds",
+          "maxBet": 5000000,
+          "options": [
+            {
+              "team": "Roger Federer",
+              "back": [1.70],
+              "lay": [1.75]
+            },
+            {
+              "team": "Andy Murray",
+              "back": [2.25],
+              "lay": [2.30]
+            }
+          ]
+        },
+        {
+          "title": "Total Games",
+          "maxBet": 5000000,
+          "options": [
+            {
+              "event": "Over 22.5",
+              "back": [2.10],
+              "lay": [2.15]
+            },
+            {
+              "event": "Under 22.5",
+              "back": [1.80],
+              "lay": [1.85]
+            }
+          ]
+        }
+      ]
+    },
+    "tennis_match_3": {
+      "teams": ["Serena Williams", "Venus Williams"],
+      "markets": [
+        {
+          "title": "Match Odds",
+          "maxBet": 5000000,
+          "options": [
+            {
+              "team": "Serena Williams",
+              "back": [1.90],
+              "lay": [1.95]
+            },
+            {
+              "team": "Venus Williams",
+              "back": [2.05],
+              "lay": [2.10]
+            }
+          ]
+        },
+        {
+          "title": "Total Games",
+          "maxBet": 5000000,
+          "options": [
+            {
+              "event": "Over 18.5",
+              "back": [1.75],
+              "lay": [1.80]
+            },
+            {
+              "event": "Under 18.5",
+              "back": [2.25],
+              "lay": [2.30]
+            }
+          ]
+        }
+      ]
+    },
+  "horse_riding_match_1": {
+    "teams": ["Horse A", "Horse B"],
+    "markets": [
+      {
+        "title": "Race Odds",
+        "maxBet": 5000000,
+        "options": [
+          {
+            "team": "Horse A",
+            "back": [1.90],
+            "lay": [1.95]
+          },
+          {
+            "team": "Horse B",
+            "back": [2.00],
+            "lay": [2.05]
+          }
+        ]
+      }
+    ]
+  },
+  "horse_riding_match_2": {
+    "teams": ["Horse C", "Horse D"],
+    "markets": [
+      {
+        "title": "Race Odds",
+        "maxBet": 5000000,
+        "options": [
+          {
+            "team": "Horse C",
+            "back": [2.10],
+            "lay": [2.15]
+          },
+          {
+            "team": "Horse D",
+            "back": [2.20],
+            "lay": [2.25]
+          }
+        ]
+      }
+    ]
+  },
+  "horse_riding_match_3": {
+    "teams": ["Horse E", "Horse F"],
+    "markets": [
+      {
+        "title": "Race Odds",
+        "maxBet": 5000000,
+        "options": [
+          {
+            "team": "Horse E",
+            "back": [2.30],
+            "lay": [2.35]
+          },
+          {
+            "team": "Horse F",
+            "back": [2.40],
+            "lay": [2.45]
+          }
+        ]
+      }
+    ]
+  },
+  "horse_riding_match_4": {
+    "teams": ["Horse G", "Horse H"],
+    "markets": [
+      {
+        "title": "Race Odds",
+        "maxBet": 5000000,
+        "options": [
+          {
+            "team": "Horse G",
+            "back": [1.85],
+            "lay": [1.90]
+          },
+          {
+            "team": "Horse H",
+            "back": [2.50],
+            "lay": [2.55]
+          }
+        ]
+      }
+    ]
+  },
+  "greyhounds_match_1": {
+    "teams": ["Greyhound A", "Greyhound B"],
+    "markets": [
+      {
+        "title": "Race Odds",
+        "maxBet": 5000000,
+        "options": [
+          {
+            "team": "Greyhound A",
+            "back": [1.75],
+            "lay": [1.80]
+          },
+          {
+            "team": "Greyhound B",
+            "back": [2.00],
+            "lay": [2.05]
+          }
+        ]
+      }
+    ]
+  },
+  "greyhounds_match_2": {
+    "teams": ["Greyhound C", "Greyhound D"],
+    "markets": [
+      {
+        "title": "Race Odds",
+        "maxBet": 5000000,
+        "options": [
+          {
+            "team": "Greyhound C",
+            "back": [2.10],
+            "lay": [2.15]
+          },
+          {
+            "team": "Greyhound D",
+            "back": [2.30],
+            "lay": [2.35]
+          }
+        ]
+      }
+    ]
+  },
+  "greyhounds_match_3": {
+    "teams": ["Greyhound E", "Greyhound F"],
+    "markets": [
+      {
+        "title": "Race Odds",
+        "maxBet": 5000000,
+        "options": [
+          {
+            "team": "Greyhound E",
+            "back": [2.00],
+            "lay": [2.05]
+          },
+          {
+            "team": "Greyhound F",
+            "back": [1.90],
+            "lay": [1.95]
+          }
+        ]
+      }
+    ]
+  },
+  "greyhounds_match_4": {
+    "teams": ["Greyhound G", "Greyhound H"],
+    "markets": [
+      {
+        "title": "Race Odds",
+        "maxBet": 5000000,
+        "options": [
+          {
+            "team": "Greyhound G",
+            "back": [2.50],
+            "lay": [2.55]
+          },
+          {
+            "team": "Greyhound H",
+            "back": [2.30],
+            "lay": [2.35]
+          }
+        ]
+      }
+    ]
+  }
+}
+  
