@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import SideBar from "./components/SideBar";
 import { BrowserRouter as Router, Route, Routes, Navigate } from "react-router-dom";
 import SoccerPage from "./pages/SoccerPage";
-import CricketPage from "./pages/CricketPage";
+import CricketPage from "./pages/cricketpage";
 import TennisPage from "./pages/TennisPage";
 import HorseRidingPage from "./pages/HorseRidingPage";
 import GreyhoundsPage from "./pages/GreyhoundsPage";
